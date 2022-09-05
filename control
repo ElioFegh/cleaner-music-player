@@ -1,0 +1,9 @@
+Package: com.eliofegh.cmp
+Name: cleaner music player
+Version: 1.0
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
